@@ -1,5 +1,3 @@
-# Fabric_DP700_lab_03b
-
 ## 🧱 Databricks Sales Lakehouse Pipeline
 
 This project implements a Lakehouse architecture in Databricks to process sales data in layered stages (bronze → silver → gold).
