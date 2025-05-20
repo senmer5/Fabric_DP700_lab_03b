@@ -1,4 +1,4 @@
-## 🧱 Databricks Sales Lakehouse Pipeline
+## 🧱 Databricks Sales Lakehouse Pipeline with Medallion Architecture
 
 This project implements a Lakehouse architecture in Databricks to process sales data in layered stages (bronze → silver → gold).
 
